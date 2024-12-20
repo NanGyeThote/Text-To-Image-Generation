@@ -73,7 +73,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## Contact
 
-For questions or feedback, feel free to open an issue or contact the repository owner.
+For questions or feedback, feel free to open an issue or contact me.
 
     ```bash
     You can copy and paste this into a `README.md` file for your project. Let me know if you need further adjustments!
